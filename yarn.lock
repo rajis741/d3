@@ -395,10 +395,10 @@
   dependencies:
     isoformat "^0.2.0"
 
-"@observablehq/plot@^0.6.7":
-  version "0.6.8"
-  resolved "https://registry.yarnpkg.com/@observablehq/plot/-/plot-0.6.8.tgz#cb4a1f744a087e00119e68bb9a84d24c12294cde"
-  integrity sha512-P8+ThM1fF5TyXov5fgDBy877N38WiJpFDwuqjXKK0ln80HC4x8hSuRCLaB+JjpKjQm7ERHbgvVldws7YwWC9Qw==
+"@observablehq/plot@^0.6.9":
+  version "0.6.9"
+  resolved "https://registry.yarnpkg.com/@observablehq/plot/-/plot-0.6.9.tgz#e3023d2eda261ae47e4d29650e8d54092813a4e6"
+  integrity sha512-vwV6bzQsGjv2XrPEpc3Voixcz2e5EVvCSzzcs/uW9KXO5ZM8GdMVXtNTaRwYXUOk98nbiYFCFwzMaIyRjrt9IA==
   dependencies:
     d3 "^7.8.0"
     interval-tree-1d "^1.0.0"
